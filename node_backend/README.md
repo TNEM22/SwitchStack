@@ -1,6 +1,5 @@
 
 # Switch Stack | Backend | NodeJs
-Built using MVC Architecture
 ## Installation
 
 ```bash
