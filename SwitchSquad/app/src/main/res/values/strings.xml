@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Switch Squad</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">Register</string>
+    <string name="connect_w_s">Connect W/S</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Name</string>
+    <string name="light_1">Light 1</string>
+    <string name="node_url">smart-sw-backend.onrender.com</string>
+    <string name="ws_url">smart-sw.onrender.com</string>
+</resources>
