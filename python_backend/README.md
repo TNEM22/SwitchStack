@@ -1,6 +1,6 @@
 
 # Switch Stack | Backend | FastAPI
-Manage all the node2node connection.
+Manages all the node2node connection.
 
 ## Installation
 

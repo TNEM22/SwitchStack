@@ -1,5 +1,6 @@
 
 # Switch Stack | Backend | NodeJs
+Manages all connections from DB and Devices.
 ## Installation
 
 ```bash
